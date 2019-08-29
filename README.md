@@ -1,1 +1,1 @@
-weh-chat
+cloud native web-chat
